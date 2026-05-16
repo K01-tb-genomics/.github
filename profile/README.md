@@ -8,7 +8,7 @@ whole-genome sequencing of sputum cultures from Ghana and Florida.
 
 | # | Title | Repository | DOI | Journal |
 |---|---|---|---|---|
-| 1 | iSNV detection calibration | [paper1-isnv-detection-calibration](https://github.com/k01-tb-genomics/paper1-isnv-detection-calibration) | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | *Microbial Genomics* (2026) |
+| 1 | iSNV detection calibration | [paper1-isnv-detection-calibration](https://github.com/k01-tb-genomics/paper1-isnv-detection-calibration) | (https://doi.org/ 10.5281/zenodo.20246996|  
 | 2 | _(forthcoming)_ | | | |
 
 ## About
