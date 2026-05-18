@@ -8,9 +8,9 @@ whole-genome sequencing of sputum cultures from Ghana and Florida.
 
 | # | Title | Repository | DOI | Journal |
 |---|---|---|---|---|
-| 1 | iSNV detection calibration | [https://github.com/k01-tb-genomics/paper1-isnv-detection-calibration](https://github.com/K01-tb-genomics/paper1_isnv_detection_calibration) | https://doi.org/10.5281/zenodo.20246996  
-| 2 | iSNV detection calibration transport |https://github.com/K01-tb-genomics/paper2a_isnv_detection_calibration_transport | | |
-| 3 | HIV and iSNV detectability |[https://github.com/K01-tb-genomics/Paper2b_hiv_isnv_detectability ](https://github.com/K01-tb-genomics/Paper2b_hiv_isnv_detectability) | | |
+| 1 | iSNV detection calibration | https://github.com/K01-tb-genomics/paper1_isnv_detection_calibration | https://doi.org/10.5281/zenodo.20246996  
+| 2 | iSNV detection calibration transport | https://github.com/K01-tb-genomics/paper2a_isnv_detection_calibration_transport | | |
+| 3 | HIV and iSNV detectability | https://github.com/K01-tb-genomics/Paper2b_hiv_isnv_detectability | | |
 
 ## About
 
